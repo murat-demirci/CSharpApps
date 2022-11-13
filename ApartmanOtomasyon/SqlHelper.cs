@@ -11,7 +11,7 @@ namespace ApartmanOtomasyon
 
         public SqlHelper()
         {
-            ConnectionString = @"data source=LAPTOP-UI9DTME8\TEW_SQLEXPRESS;initial catalog=Apartman;trusted_connection=true";
+            ConnectionString = @"";
             Connection = new SqlConnection(ConnectionString);
         }
         public void ExecuteProc(string procName, params SqlParameter[] ps)
