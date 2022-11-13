@@ -6,8 +6,7 @@ namespace ElectionApp
     public partial class FrmGrafikler : Form
     {
         SqlConnection connection = new
-            SqlConnection(@"data source=LAPTOP-UI9DTME8\TEW_SQLEXPRESS;
-initial catalog=Election;trusted_connection=true");
+            SqlConnection(@"");
         public FrmGrafikler()
         {
             InitializeComponent();
