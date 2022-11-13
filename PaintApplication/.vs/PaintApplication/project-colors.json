@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eddd5850-9b78-48a1-873e-dfd03ca635bc": {
+      "ProjectGuid": "eddd5850-9b78-48a1-873e-dfd03ca635bc",
+      "DisplayName": "PaintApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\bin\Debug\PinponGame-FormApplication.exe.config
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\bin\Debug\PinponGame-FormApplication.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\bin\Debug\PinponGame-FormApplication.pdb
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame-FormApplication.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame-FormApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame_FormApplication.game_form.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame_FormApplication.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame-FormApplication.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame-FormApplication.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame-FormApplication.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\PinponGame-FormApplication\obj\Debug\PinponGame-FormApplication.pdb

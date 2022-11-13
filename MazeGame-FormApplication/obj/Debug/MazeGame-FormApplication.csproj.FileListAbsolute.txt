@@ -1,0 +1,11 @@
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\bin\Debug\MazeGame-FormApplication.exe.config
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\bin\Debug\MazeGame-FormApplication.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\bin\Debug\MazeGame-FormApplication.pdb
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame-FormApplication.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame-FormApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame_FormApplication.Form1.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame_FormApplication.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame-FormApplication.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame-FormApplication.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame-FormApplication.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MazeGame-FormApplication\obj\Debug\MazeGame-FormApplication.pdb

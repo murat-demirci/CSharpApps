@@ -1,0 +1,13 @@
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\bin\Debug\ApartmanOtomasyon.exe.config
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\bin\Debug\ApartmanOtomasyon.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\bin\Debug\ApartmanOtomasyon.pdb
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.Form1.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.Gelirler.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.Giderler.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\ApartmanOtomasyon\obj\Debug\ApartmanOtomasyon.pdb

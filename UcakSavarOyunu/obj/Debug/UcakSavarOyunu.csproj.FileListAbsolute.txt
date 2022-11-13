@@ -1,0 +1,11 @@
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\bin\Debug\UcakSavarOyunu.exe.config
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\bin\Debug\UcakSavarOyunu.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\bin\Debug\UcakSavarOyunu.pdb
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.Form1.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.pdb

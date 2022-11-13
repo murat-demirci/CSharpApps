@@ -1,0 +1,11 @@
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\bin\Debug\ExchangeApp.exe.config
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\bin\Debug\ExchangeApp.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\bin\Debug\ExchangeApp.pdb
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.Form1.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ExchangeApp\obj\Debug\ExchangeApp.pdb

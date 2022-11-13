@@ -1,0 +1,11 @@
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.formMain.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\WebBrowser\obj\Debug\WebBrowser.pdb

@@ -1,0 +1,16 @@
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\demur\Desktop\WebFiles\Udemy Studio Ders\MusicPlayer\obj\Debug\MusicPlayer.pdb

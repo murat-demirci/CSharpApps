@@ -1,0 +1,12 @@
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\bin\Debug\ElectionApp.exe.config
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\bin\Debug\ElectionApp.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\bin\Debug\ElectionApp.pdb
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.Form1.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.FrmGrafikler.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\ElectionApp\obj\Debug\ElectionApp.pdb

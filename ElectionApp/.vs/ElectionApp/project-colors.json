@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15af7381-03dc-477c-aa3f-79ec38d1eae4": {
+      "ProjectGuid": "15af7381-03dc-477c-aa3f-79ec38d1eae4",
+      "DisplayName": "ElectionApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
