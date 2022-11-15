@@ -1,0 +1,11 @@
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\bin\Debug\GeriSayim.exe.config
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\bin\Debug\GeriSayim.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\bin\Debug\GeriSayim.pdb
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.Form1.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\GeriSayim\obj\Debug\GeriSayim.pdb

@@ -1,0 +1,11 @@
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\bin\Debug\JsonFormatUsingEmoji.exe.config
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\bin\Debug\JsonFormatUsingEmoji.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\bin\Debug\JsonFormatUsingEmoji.pdb
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.csproj.SuggestedBindingRedirects.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.Properties.Resources.resources
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.csproj.GenerateResource.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.exe
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.pdb
+C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\JsonFormatUsingEmoji\obj\Debug\JsonFormatUsingEmoji.Form1.resources

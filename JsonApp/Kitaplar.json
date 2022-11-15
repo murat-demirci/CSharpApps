@@ -1,0 +1,14 @@
+[
+  {
+    "kitapAdi": "s",
+    "fiyat": 10
+  },
+  {
+    "kitapAdi": "d",
+    "fiyat": 10
+  },
+  {
+    "kitapAdi": "da",
+    "fiyat": 100
+  }
+]
