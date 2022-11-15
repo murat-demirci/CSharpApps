@@ -19,7 +19,7 @@ namespace CardGame
         public PictureBox card8 = new PictureBox();
         public PictureBox card9 = new PictureBox();
         public List<PictureBox> pictureBoxes = new List<PictureBox>();
-        public string[] cardList = Directory.GetFiles(@"C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\CardGame\Kartlar");
+        public string[] cardList = Directory.GetFiles(@"~\Kartlar");
         public string[] cardArry1 = new string[26];
         public string[] cardArry2 = new string[26];
         private string secCard;
@@ -94,7 +94,7 @@ namespace CardGame
             }
             label2.Text = AIscore.ToString();
 
-            card3.ImageLocation = @"C:\Users\demur\Desktop\WebFiles\UdemyStudioDers\CSharp\CardGame\arka.jpg";
+            card3.ImageLocation = @"~\arka.jpg";
             card3.Location = new Point(117, 70);
             card3.Size = new Size(100, 150);
             card3.SizeMode = PictureBoxSizeMode.StretchImage;

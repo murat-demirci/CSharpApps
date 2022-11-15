@@ -7,8 +7,7 @@ namespace ElectionApp
     public partial class Form1 : Form
     {
         SqlConnection connection = new
-            SqlConnection(@"data source=LAPTOP-UI9DTME8\TEW_SQLEXPRESS;
-initial catalog=Election;trusted_connection=true");
+            SqlConnection(@"");
         public Form1()
         {
             InitializeComponent();
